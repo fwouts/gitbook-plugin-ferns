@@ -24,8 +24,8 @@ Use a fenced code block tagged with `ferns`:
 
     ```ferns
     a
-    key = value
-    -- arrow -->
+      key = value
+      -- arrow -->
         b
         c
     ```
