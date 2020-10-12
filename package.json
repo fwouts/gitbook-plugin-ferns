@@ -1,0 +1,20 @@
+{
+  "name": "gitbook-plugin-ferns",
+  "version": "0.0.1",
+  "license": "MIT",
+  "engines": {
+    "gitbook": "*",
+    "honkit": "*"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  },
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "ferns": "0.0.8"
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "yarn build"
+  }
+}
