@@ -21,7 +21,7 @@ function processPage(page: Page) {
       },
       {
         code: content,
-        maxWidth: 1200,
+        maxWidth: 2400,
       }
     );
     page.content = page.content.replace(
