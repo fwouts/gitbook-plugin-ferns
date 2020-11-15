@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-ferns",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "license": "MIT",
   "engines": {
     "gitbook": "*",
@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "canvas": "^2.6.1",
-    "ferns": "^0.0.13"
+    "ferns": "^0.0.14"
   },
   "scripts": {
     "build": "tsc",
