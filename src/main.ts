@@ -21,7 +21,13 @@ function processPage(page: Page) {
       },
       {
         code: content,
+        minTreeWidth: 1000,
         maxWidth: 2400,
+        style: {
+          colors: {
+            background: "#fff",
+          },
+        },
       }
     );
     page.content = page.content.replace(

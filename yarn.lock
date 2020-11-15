@@ -106,10 +106,10 @@ detect-libc@^1.0.2:
   resolved "https://registry.yarnpkg.com/detect-libc/-/detect-libc-1.0.3.tgz#fa137c4bd698edf55cd5cd02ac559f91a4c4ba9b"
   integrity sha1-+hN8S9aY7fVc1c0CrFWfkaTEups=
 
-ferns@^0.0.10:
-  version "0.0.10"
-  resolved "https://registry.yarnpkg.com/ferns/-/ferns-0.0.10.tgz#be8062cea1b76034a5f00d01f4d8680724d7440f"
-  integrity sha512-IgjwJVozMXrXebD5GW2DN23GLbV8CMYxtKX/rX28wu5ND4YkfVBvGdPglfkl4H1wwXdkz0zjeZBS1KkM9g6TIQ==
+ferns@^0.0.16:
+  version "0.0.16"
+  resolved "https://registry.yarnpkg.com/ferns/-/ferns-0.0.16.tgz#fb951e525c1b616b758546a67605de0d75fceaa5"
+  integrity sha512-b0R7tDx1aEnnFy4jtKy4TCq+G46aqa4g6MyTqj5vJSe1NjKnHqiZoab5LuQ1XQvPj/xQlZfhMdwpfspQCFw7+Q==
 
 fs-minipass@^1.2.5:
   version "1.2.7"

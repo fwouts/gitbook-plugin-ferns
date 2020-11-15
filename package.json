@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "canvas": "^2.6.1",
-    "ferns": "^0.0.15"
+    "ferns": "^0.0.16"
   },
   "scripts": {
     "build": "tsc",
